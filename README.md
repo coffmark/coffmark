@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ryosuke Kamimura 
 
-<!--
-**Ryosukekamimura/Ryosukekamimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+| 氏名 | 神村亮佑 |
+| :---: | :---: |
+| ステータス | 岐阜大学学生 |
+| Qiita | [@RyosukeKamimura](https://qiita.com/RyosukeKamimura) |
+| Twitter | [@Ryosuke_Kamimur](https://twitter.com/Ryosuke_Kamimur) | 
+| Wantedly | [こちら](https://www.wantedly.com/users/136148550) |
+| 好きな言語 | Swift , Flutter |
+| 興味あること | 個人サービス開発 , CoreML , ARKit |
+| 趣味 | 筋トレ , サウナ , 読書 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
