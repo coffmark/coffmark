@@ -12,4 +12,7 @@
 | 趣味 | 筋トレ , サウナ , 読書 |
 
 
-[![Ryosukekamimura's github stats](https://github-readme-stats.vercel.app/api?username=Ryosukekamimura&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryosukekamimura's github stats](https://github-readme-stats.vercel.app/api?username=Ryosukekamimura&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryosukekamimura)](https://github.com/ryo-ma/github-profile-trophy)
