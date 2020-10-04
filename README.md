@@ -7,7 +7,7 @@
 | Qiita | [@RyosukeKamimura](https://qiita.com/RyosukeKamimura) |
 | Twitter | [@Ryosuke_Kamimur](https://twitter.com/Ryosuke_Kamimur) | 
 | Wantedly | [こちら](https://www.wantedly.com/users/136148550) |
-| 好きな言語 | Swift , Flutter |
+| 好きな言語 | Swift , Flutter, Python, C#, TypeScript, PHP |
 | 興味あること | 個人サービス開発 , CoreML , ARKit |
 | 趣味 | 筋トレ , サウナ , 読書 |
 
