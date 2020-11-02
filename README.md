@@ -3,7 +3,7 @@
 
 | 氏名 | 神村亮佑 |
 | :---: | :---: |
-| ステータス | 岐阜大学学生 |
+| ステータス | 学生 |
 | Qiita | [@RyosukeKamimura](https://qiita.com/RyosukeKamimura) |
 | Twitter | [@Ryosuke_Kamimur](https://twitter.com/Ryosuke_Kamimur) | 
 | Wantedly | [こちら](https://www.wantedly.com/users/136148550) |
