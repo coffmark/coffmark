@@ -18,9 +18,6 @@ I like Swift, Python, Flutter, Typescript.
 -  MacOS Catalina
 - 🤾 Like Handball
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryosukekamimura&langs_count=8&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ryosukekamimura&count_private=true&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryosukekamimura&layout=compact&langs_count=8&hide=html)
 
