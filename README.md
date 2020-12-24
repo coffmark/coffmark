@@ -17,6 +17,8 @@ I like Swift, Python, Flutter, Typescript.
 - 💄 I'm on job-hunting
 -  MacOS Catalina
 - 🤾 Like Handball
+- 💧 [Wantedly](https://www.wantedly.com/id/ryousuke_kamimura)
+- ☕️ [Blog](https://ryosuke-kamimura.com)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ryosukekamimura&count_private=true&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryosukekamimura&layout=compact&langs_count=8&hide=html)
@@ -26,7 +28,7 @@ I like Swift, Python, Flutter, Typescript.
 
 ## ピッとタイム
 
-[Githubレポジトリ](https://github.com/Ryosukekamimura/pit_time)
+[Githubレポジトリ 詳細について](https://github.com/Ryosukekamimura/pit_time)
 </br>
 [App Store](https://apps.apple.com/jp/app/%E3%83%94%E3%83%83%E3%81%A8%E3%82%BF%E3%82%A4%E3%83%A0/id1543102679)
 <p text-align="center">
