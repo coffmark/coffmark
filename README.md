@@ -26,6 +26,14 @@ I like Swift, Python, Flutter, Typescript.
 
 # 作成したサービスたち
 
+## 岐阜大学　授業レビューサービス
+[Githubレポジトリ](https://github.com/Ryosukekamimura/GifuZenkyoApp)
+
+<p text-align="center">
+ <img src="https://user-images.githubusercontent.com/52638834/107937578-7a8a6f80-6fc7-11eb-8ffe-9ebbf766e90e.png" width="256"/>
+</p>
+
+
 ## ピッとタイム
 
 [Githubレポジトリ 詳細について](https://github.com/Ryosukekamimura/pit_time)
