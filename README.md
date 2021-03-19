@@ -16,6 +16,7 @@ I like Swift, Python, Flutter, Typescript.
 - 🏠 Live in Gifu, Japan
 - 🤾 Like Handball
 - 💧 [Wantedly](https://www.wantedly.com/id/ryousuke_kamimura)
+- 👤 [Web Site](https://ryosuke-kamimura.netlify.app)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ryosukekamimura&count_private=true&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryosukekamimura&layout=compact&langs_count=8&hide=html)
