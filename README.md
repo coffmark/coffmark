@@ -16,13 +16,21 @@ I like Swift, Python, Flutter, Typescript.
 - 🏠 Live in Gifu, Japan
 - 🤾 Like Handball
 - 💧 [Wantedly](https://www.wantedly.com/id/ryousuke_kamimura)
-- 👤 [Web Site](https://ryosuke-kamimura.netlify.app)
+- 👤 [Portfolio](https://ryosuke-kamimura.netlify.app)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ryosukekamimura&count_private=true&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryosukekamimura&layout=compact&langs_count=8&hide=html)
 
 
 # 作成したサービスたち
+
+## 体温計きろく (AppStoreリリース準備中)
+[Githubレポジトリ](https://github.com/Ryosukekamimura/RecordBodyTemperatureApp)
+<div text-align="center">
+  <img src="https://user-images.githubusercontent.com/52638834/111928655-9b2e7380-8af7-11eb-972f-be85f7d77400.jpg" width=256/>
+  <img src="https://user-images.githubusercontent.com/52638834/111928717-c3b66d80-8af7-11eb-8182-0aaba18047f2.jpg" width=256/>
+ </div>
+
 
 ## 岐阜大学　授業レビューサービス(開発中)
 [Githubレポジトリ](https://github.com/Ryosukekamimura/GifuZenkyoApp)
