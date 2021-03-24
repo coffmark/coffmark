@@ -24,15 +24,15 @@ I like Swift, Python, Flutter, Typescript.
 
 # 作成したサービスたち
 
-## 体温計きろく (AppStoreリリース準備中)
-[Githubレポジトリ](https://github.com/Ryosukekamimura/RecordBodyTemperatureApp)
+## 体温計きろく 
+[App Store](https://apps.apple.com/jp/app/%E4%BD%93%E6%B8%A9%E8%A8%88%E3%81%8D%E3%82%8D%E3%81%8F/id1551615931)
 <div text-align="center">
   <img src="https://user-images.githubusercontent.com/52638834/111928655-9b2e7380-8af7-11eb-972f-be85f7d77400.jpg" width=256/>
   <img src="https://user-images.githubusercontent.com/52638834/111928717-c3b66d80-8af7-11eb-8182-0aaba18047f2.jpg" width=256/>
  </div>
 
 
-## 岐阜大学　授業レビューサービス(開発中)
+## 岐阜大学　授業レビューサービス (iOS&Android開発中)
 [Githubレポジトリ](https://github.com/Ryosukekamimura/GifuZenkyoApp)
 
 <p text-align="center">
