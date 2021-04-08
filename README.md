@@ -15,7 +15,6 @@ I like Swift, Python, Flutter, Typescript.
 - 🌏 21 years old
 - 🏠 Live in Gifu, Japan
 - 🤾 Like Handball
-- 💧 [Wantedly](https://www.wantedly.com/id/ryousuke_kamimura)
 - 👤 [Portfolio](https://ryosuke-kamimura.netlify.app)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ryosukekamimura&count_private=true&show_icons=true)
